@@ -2,7 +2,7 @@
 let size = document.getElementById("sizeInput");
 let OnOff = document.getElementById("OnOff");
 let color = "black"
-let click = true;
+let click = false;
 
 makeboard(16);
 
